@@ -14,7 +14,7 @@ Author: Maria Edgeworth
 
 Release Date: December, 2005 [EBook #9414]
 This file was first posted on September 30, 2003
-Last Updated: June 8, 2013
+Last Updated: December 28, 2015
 
 Language: English
 
@@ -151,7 +151,7 @@ guardian, and an affectionate mother?"
 
 "Why--as a guardian, I think she has allowed her son too much liberty,
 and too much money. I have heard that young Beaumont has lost a
-considerable sum at Newmarket, I grant you that Mrs. Beaumont is an
+considerable sum at Newmarket. I grant you that Mrs. Beaumont is an
 affectionate mother, and I am convinced that she is extremely anxious to
 advance the worldly interests of her children; still I cannot, my dear,
 agree with you, that she is a good mother. In the whole course of the
@@ -367,9 +367,10 @@ plain truth, if this is the truth?"
 
 CHAPTER II.
 
-"Young Hermes next, a close contriving god, Her brows encircled with his
-serpent rod; Then plots and fair excuses fill her brain, And views of
-breaking am'rous vows for gain."
+     "_Young Hermes next, a close contriving god,
+     Her brows encircled with his serpent rod;
+     Then plots and fair excuses fill her brain,
+     And views of breaking am'rous vows for gain_."
 
 
 The information which Mrs. Beaumont's man, Martin, had learned from the
@@ -621,9 +622,12 @@ seeing her son returning from his morning's ride.
 
 CHAPTER III.
 
-"Will you hear a Spanish lady, How she woo'd an English man? Garments
-gay as rich as may be, Deck'd with jewels, she had on." THE SPANISH
-LADY'S LOVE. _Percy's Reliques of Ancient Poetry_
+     _"Will you hear a Spanish lady,
+     How she woo'd an English man?
+     Garments gay as rich as may be,
+     Deck'd with jewels, she had on."_
+
+     THE SPANISH LADY'S LOVE. _Percy's Reliques of Ancient Poetry_
 
 
 Mr. Beaumont had just been at a neighbouring farm-house, where there
@@ -1253,7 +1257,7 @@ all.--What note is that you have in your hand?"
 
 "A note from Miss Walsingham, mamma."
 
-"Oh! the chickenpox! take caer! letters, notes, every thing may convey
+"Oh! the chickenpox! take care! letters, notes, every thing may convey
 the infection," cried Mrs. Beaumont, snatching the paper. "How could
 dearest Miss Walsingham be so giddy as to answer my note, after what I
 said in my postscript!--How did this note come?"
@@ -1535,7 +1539,7 @@ it really possible that you have not, since your return to England,
 experienced any uncomfortable sensations, suffered any serious injury to
 your health, my dear sir, from the damps and chills of our climate?"
 
-"Why, now I think of it, I have--I have a caugh," said Mr. Palmer,
+"Why, now I think of it, I have--I have a cough," said Mr. Palmer,
 coughing.
 
 Mrs. Beaumont officiously shut the window.
@@ -2462,7 +2466,7 @@ meet with them at home this time; you'll find pen, ink, and paper in my
 dressing-room, love."
 
 Mrs. Beaumont drew Amelia's arm within hers, and, dictating kindest
-messages for the Walsinghams, led her out of the loom. Having thus
+messages for the Walsinghams, led her out of the room. Having thus
 successfully covered her daughter's retreat, our skilful manoeuvrer
 returned, all self-complacent, to the company. And next, to please
 the warm-hearted Mr. Palmer, she seemed to sympathize in his patriotic
@@ -2953,6 +2957,29 @@ curiosity to take up the book when he turned away. She found that it
 was Cumberland's Memoirs, and saw the following little poem marked with
 reiterated lines of approbation:
 
+      "Why, Affectation, why this mock grimace?
+      Go, silly thing, and hide that simp'ring face.
+      Thy lisping prattle, and thy mincing gait,
+      All thy false mimic fooleries I hate;
+      For thou art Folly's counterfeit, and she
+      Who is right foolish hath the better plea;
+      Nature's true idiot I prefer to thee.
+
+      Why that soft languish?
+      Why that drawling tone?
+      Art sick, art sleepy?
+      Get thee hence: begone.
+      I laugh at all thy pretty baby tears,
+      Those flutt'rings, faintings, and unreal fears.
+
+      Can they deceive us?
+      Can such mumm'ries move,
+      Touch us with pity, or inspire with love?
+      No, Affectation, vain is all thy art!
+      Those eyes may wander over ev'ry part;
+      They'll never find their passage to the heart."
+
+
 "Why, Affectation, why this mock grimace? Go, silly thing, and hide that
 simp'ring face. Thy lisping prattle, and thy mincing gait, All thy false
 mimic fooleries I hate; For thou art Folly's counterfeit, and she Who
@@ -3017,8 +3044,8 @@ hear them better than from Captain Walsingham's guardian and friend?"
 
 CHAPTER X.
 
-"Yet never seaman more serenely brave Led Britain's conquering squadrons
-o'er the wave."
+     _"Yet never seaman more serenely brave
+     Led Britain's conquering squadrons o'er the wave."_
 
 
 "Friends are not always the best biographers," said Mr. Walsingham; "but
@@ -4220,9 +4247,9 @@ are so very kind--here's my son and the papers."
 
 CHAPTER XII.
 
-"A face untaught to feign; a judging eye, That darts severe upon a
-rising lie, And strikes a blush through frontless flattery."
-
+      _"A face untaught to feign; a judging eye,
+      That darts severe upon a rising lie,
+      And strikes a blush through frontless flattery."_
 
 To the settlement of accounts they sat down in due form; and it so
 happened, that though this dear good old soul had not the best memory
@@ -4996,9 +5023,10 @@ families who had hitherto lived in friendship.
 
 CHAPTER XIV.
 
-"Him no soft thoughts, no gratitude could move; To gold he fled, from
-beauty and from love!" DRYDEN.
+      _"Him no soft thoughts, no gratitude could move;
+      To gold he fled, from beauty and from love!"_
 
+                                         DRYDEN.
 
 All that passed in the two hours' conversation between the discarded
 baronet and the mother of his late mistress did not transpire; but Mrs.
@@ -5391,10 +5419,12 @@ as he walked up and down the room,
 
 CHAPTER XV.
 
-"True love's the gift which God has giv'n To man alone, beneath the
-heav'n; It is the secret sympathy, The silver link, the silken tie,
-Which heart to heart, and mind to mind, In body and in soul can bind."
-
+      "True love's the gift which God has giv'n
+      To man alone, beneath the heav'n;
+      It is the secret sympathy,
+      The silver link, the silken tie,
+      Which heart to heart, and mind to mind,
+      In body and in soul can bind."
 
 Happy love, though the most delightful in reality, is the most
 uninteresting in description; and lovers are proverbially bad company,
@@ -6963,7 +6993,7 @@ of fashionable nonsense: yet, though Miss Turnbull felt no actual
 pleasure in her company, she was vain of being of her parties, and even
 condescended to repeat some of her sayings, in which there was neither
 sense nor wit. From having lived much in the London world, her
-ladyship was acquainted with a prodigious number of names of persona of
+ladyship was acquainted with a prodigious number of names of persons of
 consequence and quality; and by these our heroine's ears were charmed.
 Her ladyship's dress was also an object of admiration and imitation,
 and the York ladies begged patterns of every thing she wore. Almeria
@@ -8209,7 +8239,7 @@ most wished for approbation, that she could not, consistently with her
 principles or interest, countenance them, by appearing in public with
 one so obnoxious.
 
-Miss Turn bull observed, with the most minute attention, every word and
+Miss Turnbull observed, with the most minute attention, every word and
 gesture of Lady Pierrepoint. At first view, her ladyship appeared all
 smiling ease and affability; but in all her motions, even in those of
 her face, there was something that resembled a puppet--her very smiles,
